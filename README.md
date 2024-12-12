@@ -5,6 +5,23 @@ This project explores historical baseball data sourced from Sean Lahman's Baseba
 
 ## 📁 Project Structure
 The project includes the following key components:
+```r
+
+Baseball-Databank-Analysis-Project/
+├── 📊 AllstarFull.csv
+│ └── Contains data on All-Star game appearances.
+├── 💼 Salaries.csv
+│ └── Contains data on player salaries.
+├── 📄 Applied Statistics for Data Science -report.pdf
+│ └── Detailed statistical analysis report.
+├── 📝 R_Analysis.ipynb
+│ └── Jupyter Notebook containing the R code for data analysis and visualization.
+├── 🌐 code-R_Analysis.html
+│ └── HTML export of the R analysis code.
+└── 📊 final_presentation.pptx
+└── PowerPoint presentation summarizing the key findings of the analysis.
+
+```
 
 ### 📊 Datasets
 - **AllstarFull.csv**: Contains data on All-Star game appearances.
